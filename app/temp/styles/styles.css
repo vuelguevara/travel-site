@@ -1192,6 +1192,10 @@ a {
     }
     }
 
+.site-header__menu-content--is-visible {
+            display: block;
+        }
+
 .site-header__menu-icon {
         width: 20px;
         height: 20px;
@@ -1199,12 +1203,14 @@ a {
         position: absolute;
         top: 10px;
         right: 10px;
+      
     }
 
 @media (min-width: 800px){
 
 .site-header__menu-icon {
             display: none
+      
     }
     }
 
