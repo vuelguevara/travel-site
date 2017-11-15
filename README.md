@@ -6,6 +6,7 @@
 2. Gulp.js
 4. Browser-sync
 5. Autoprefixer
+6. Babel
 
 To install packages used using NPM, type the following in the command line:
 
